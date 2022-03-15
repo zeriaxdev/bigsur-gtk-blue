@@ -8,6 +8,13 @@
     "type": "git",
     "url": "https://github.com/zeriaxdev/bigsurgtk-blue"
   },
+  "keywords": [
+    "bigsur",
+    "big sur",
+    "dark theme",
+    "gnome",
+    "gtk"
+  ],
   "engines": {
     "vscode": "^1.65.0"
   },
