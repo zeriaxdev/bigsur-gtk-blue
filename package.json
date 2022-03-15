@@ -1,0 +1,26 @@
+{
+  "name": "bigsurgtk-blue",
+  "displayName": "BigSurGTK-Blue",
+  "description": "A VSCode theme for BigSur GTK Blue (Dark) theme for Gnome.",
+  "version": "0.0.1",
+  "publisher": "zeriax",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeriaxdev/bigsurgtk-blue"
+  },
+  "engines": {
+    "vscode": "^1.65.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "BigSurBlue",
+        "uiTheme": "vs-dark",
+        "path": "./themes/BigSurBlue-color-theme.json"
+      }
+    ]
+  }
+}
